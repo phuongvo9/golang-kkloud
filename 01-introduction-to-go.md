@@ -1,5 +1,6 @@
 # Lab: Introduction to Go
 
+Do the exercise
 [Take me to the lab!](https://kodekloud.com/topic/lab-introduction-to-go/)
 
 Help for the [VSCode editor](https://github.com/kodekloudhub/community-faq/blob/main/docs/vscode-tips.md).
